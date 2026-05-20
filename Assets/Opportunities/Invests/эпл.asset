@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba6cc5de6f4f3c74f9cb20a53cb0a1dc, type: 3}
   m_Name: "\u044D\u043F\u043B"
   m_EditorClassIdentifier: 
-  title: apple
-  description: ----
+  title: Apple
+  description: "\u0417\u0430\u0440\u0443\u0431\u0435\u0436\u043D\u0430\u044F IT-\u043A\u043E\u043C\u043F\u0430\u043D\u0438\u044F"
   type: 2
   requiredSkill: {fileID: 0}
   requiredPerson: {fileID: 0}

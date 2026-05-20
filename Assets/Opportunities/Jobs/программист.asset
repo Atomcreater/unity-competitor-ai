@@ -13,13 +13,12 @@ MonoBehaviour:
   m_Name: "\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442"
   m_EditorClassIdentifier: 
   title: "\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0441\u0442"
-  description: "\u041D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E \u0432\u044B\u0441\u0448\u0435\u0435
-    \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435"
+  description: "\u0422\u0440\u0435\u0431\u0443\u044E\u0442\u0441\u044F IT \u043D\u0430\u0432\u044B\u043A\u0438 "
   type: 0
-  requiredSkill: {fileID: 0}
+  requiredSkill: {fileID: 11400000, guid: 7c9b0a0ebe151a04ebf192e67fd0c1fc, type: 2}
   requiredPerson: {fileID: 0}
   id: job_programmer
-  jobIncomePerHour: 450
+  jobIncomePerHour: 500
   jobHours: 320
   jobBonusMin: 0
   jobBonusMax: 0

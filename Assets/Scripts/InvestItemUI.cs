@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Globalization;
+using Unity.VisualScripting;
 
 public class InvestItemUI : MonoBehaviour
 {
@@ -41,6 +42,8 @@ public class InvestItemUI : MonoBehaviour
             return;
 
         titleText.text = invest.title;
+        descriptionText.text = investData.description;
+
         costText.text = "Цена: " + Format(invest.currentCost) + " р.";
         amountText.text = "У вас: " + invest.amount;
         riskText.text = "Риск: " + GetRiskName(investData.investRisk);

@@ -9311,7 +9311,11 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3b502c65517d07140a5c5ef96081c8cd, type: 2}
   - {fileID: 11400000, guid: 3b8d84ab16df1ac4cb21d3895948ea38, type: 2}
   - {fileID: 11400000, guid: 79c319a7147daab4693dd55cd47c36b3, type: 2}
+  - {fileID: 11400000, guid: 70d7d935a816ebc44b1cdcc3ad8ac91d, type: 2}
+  - {fileID: 11400000, guid: 5902beca40bf4504eb6b59edf68932f0, type: 2}
+  - {fileID: 11400000, guid: 70c0dcdb402be894fa0f37aee1393a37, type: 2}
   - {fileID: 11400000, guid: e214dbfafb85aa642bdc7b1aecce2104, type: 2}
+  - {fileID: 11400000, guid: a7af5273af7c85b4fae94818be5d23ec, type: 2}
   businesses:
   - {fileID: 11400000, guid: 03cf6d3dd442b984c9ebe310557cb3de, type: 2}
   - {fileID: 11400000, guid: af534418b42de5a4684563d364e9abf3, type: 2}
@@ -9320,11 +9324,16 @@ MonoBehaviour:
   - {fileID: 11400000, guid: af534418b42de5a4684563d364e9abf3, type: 2}
   - {fileID: 11400000, guid: af534418b42de5a4684563d364e9abf3, type: 2}
   realty:
+  - {fileID: 11400000, guid: 560993ebecd7cc64d91168c8e1de3a73, type: 2}
   - {fileID: 11400000, guid: f2942242c208be34fb5812aa77c46977, type: 2}
   - {fileID: 11400000, guid: e6a354805f42feb4cb0cb1255cf7247f, type: 2}
+  - {fileID: 11400000, guid: 3043971f308297646a1ffdeba3ec4677, type: 2}
+  - {fileID: 11400000, guid: dc1d4bfc796850e46b5db3e7376c9cac, type: 2}
   invests:
   - {fileID: 11400000, guid: 81308069893ee0f49919f4548c80a898, type: 2}
+  - {fileID: 11400000, guid: ddd9248712636b943b4070a4fec97b99, type: 2}
   - {fileID: 11400000, guid: 18164e559433b004d836c7526d2acc4b, type: 2}
+  - {fileID: 11400000, guid: c74cc852430e9794a85a0862db4d3c9f, type: 2}
   - {fileID: 11400000, guid: 7ae8e13aa9dadb947bf01e2b196402c7, type: 2}
   skills:
   - {fileID: 11400000, guid: a204945e744c5e641af316638dbc12be, type: 2}
@@ -9334,10 +9343,15 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e58e8cccee80b5741a7d584a996a29a1, type: 2}
   - {fileID: 11400000, guid: 24da44b967b256d4f932f915d0a5e0a5, type: 2}
   - {fileID: 11400000, guid: 6a6b66aa068467c4bb65b4e8c987cf79, type: 2}
+  - {fileID: 11400000, guid: 7c9b0a0ebe151a04ebf192e67fd0c1fc, type: 2}
+  - {fileID: 11400000, guid: 9da27e8eaa95c394b98d2ea85acf2793, type: 2}
+  - {fileID: 11400000, guid: 808b69233d6970749b4d38215dcd0dd3, type: 2}
+  - {fileID: 11400000, guid: 157ea1a6be2d43948abb45227d2586a4, type: 2}
   people:
   - {fileID: 11400000, guid: c8057ca14a19f66429c43424d53c0fcd, type: 2}
   - {fileID: 11400000, guid: 0011881eaaacb21438b2c1caa196d848, type: 2}
   - {fileID: 11400000, guid: 08893a537c1fc854d910b5a5f65b1c6a, type: 2}
+  - {fileID: 11400000, guid: 6bac8112eeb7bd64db8deb0fd4bc8f6a, type: 2}
   luckEvents:
   - {fileID: 11400000, guid: bf82adefc28305f4db4dd310727357ab, type: 2}
   - {fileID: 11400000, guid: 127188aeb476c4e4b93e184b823c92f1, type: 2}

@@ -12,11 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba6cc5de6f4f3c74f9cb20a53cb0a1dc, type: 3}
   m_Name: "\u043A\u0440\u0438\u043F\u0442\u0430"
   m_EditorClassIdentifier: 
-  title: "\u043A\u0440\u0438\u043F\u0442\u041A\u043E\u0438\u043D"
-  description: ----
+  title: "\u041A\u0440\u0438\u043F\u0442\u041A\u043E\u0438\u043D"
+  description: "\u041D\u0435\u0441\u0442\u0430\u0431\u0438\u043B\u044C\u043D\u0430\u044F
+    \u043A\u0440\u0438\u043F\u0442\u043E\u0432\u0430\u043B\u044E\u0442\u0430"
   type: 2
   requiredSkill: {fileID: 0}
-  requiredPerson: {fileID: 0}
+  requiredPerson: {fileID: 11400000, guid: 6bac8112eeb7bd64db8deb0fd4bc8f6a, type: 2}
   id: invest_crypto
   jobIncomePerHour: 0
   jobHours: 0

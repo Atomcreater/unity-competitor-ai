@@ -496,6 +496,18 @@ public class PlayerStats : MonoBehaviour
             return;
         }
 
+        if (data.requiredPerson != null && !KnowsPerson(data.requiredPerson))
+        {
+            Debug.Log("Для покупки этих акций нужно знакомство: " + data.requiredPerson.personName);
+            return;
+        }
+
+        if (data.requiredSkill != null && !HasSkill(data.requiredSkill))
+        {
+            Debug.Log("Для покупки этих акций нужен навык: " + data.requiredSkill.title);
+            return;
+        }
+
         if (invest.amount + amount > 1000)
         {
             Debug.Log("Нельзя владеть больше чем 1000 акциями");
